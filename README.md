@@ -1,10 +1,7 @@
-Temas:
- - Grafos1
-
 # NomedoProjeto
 
 **Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Conteúdo da Disciplina**: Grafos1<br>
 
 ## Alunos
 |Matrícula | Aluno |
@@ -19,8 +16,8 @@ Descreva os objetivos do seu projeto e como ele funciona.
 Adicione 3 ou mais screenshots do projeto em funcionamento.
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
+**Linguagem**: C++<br>
+**Framework**: Não se aplica<br>
 Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
 
 ## Uso 
